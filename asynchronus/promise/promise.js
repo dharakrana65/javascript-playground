@@ -15,3 +15,4 @@ p.then((data) => {
 
 const p1 = Promise.resolve(42);
 p1.then(console.log); // 42
+
